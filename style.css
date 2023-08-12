@@ -34,6 +34,7 @@ button {
   transition-property: background-color;
   transition: 0.3s;
 }
+
 .number {
   background-color: #93e1d8;
 }
